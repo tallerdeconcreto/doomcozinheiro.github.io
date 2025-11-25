@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-image: url('../img/bollz-bruhikd.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+#status {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+canvas {
+    background: #68511f;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #ff0202ee;
+    cursor: default;
+}
